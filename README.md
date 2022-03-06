@@ -1,10 +1,10 @@
 # Global DNI
 # Installation
-     - npm install --save global-dni
+    npm install --save global-dni
 # Api
-    - format(dni)
-    - validate(dni)
-    - clean(dni)
+    format(dni)
+    validate(dni)
+    clean(dni)
 # Example 
      import dni from 'global-dni'
      
