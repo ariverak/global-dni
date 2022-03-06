@@ -1,0 +1,23 @@
+{
+  "name": "global-dni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariverak/global-dni.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariverak/global-dni/issues"
+  },
+  "homepage": "https://github.com/ariverak/global-dni#readme",
+  "dependencies": {
+    "dni-js": "^0.2.1",
+    "rut.js": "^2.1.0"
+  }
+}
