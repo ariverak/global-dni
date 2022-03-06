@@ -1,7 +1,7 @@
 {
   "name": "global-dni",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "a library to format and validate multiple dni types",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ariverak/global-dni.git"
   },
-  "author": "",
+  "author": "ariverak",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ariverak/global-dni/issues"
