@@ -1,7 +1,9 @@
-declare function clean(dni: string): string;
-declare function validate(dni: string): boolean;
-declare function format(dni: string): string;
+interface DniOptions {
+    format: (dni: string) => string;
+    validate: (dni: string) => boolean;
+    clean: (dni: string) => string;
+}
 
-export const CL = {clean, validate, format}
-export const PE = {clean, validate, format}
-export const ES = {clean, validate, format}
+export const CL: DniOptions
+export const PE: DniOptions;
+export const ES: DniOptions;

@@ -1,6 +1,6 @@
 {
   "name": "global-dni",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "a library to format and validate multiple dni types",
   "main": "index.js",
   "scripts": {
