@@ -1,4 +1,9 @@
 # Global DNI
+  collection of libraries to format and validate multiple DNI types
+  ## DNI Available:
+    * Chile (CL)
+    * Perú (PE)
+    * España (ES)
 # Installation
     npm install --save global-dni
 # Api
