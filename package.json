@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ariverak/global-dni.git"
   },
   "author": "ariverak",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ariverak/global-dni/issues"
   },
@@ -19,5 +19,18 @@
   "dependencies": {
     "dni-js": "^0.2.1",
     "rut.js": "^2.1.0"
-  }
+  },
+  "keywords": [
+    "rut",
+    "dni",
+    "identity",
+    "format",
+    "formatter",
+    "validator",
+    "validate",
+    "javascript",
+    "node",
+    "browser",
+    "global"
+  ]
 }
