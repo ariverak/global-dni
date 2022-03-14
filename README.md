@@ -4,6 +4,7 @@
     * Chile (CL)
     * Perú (PE)
     * España (ES)
+    * Paraguay (PY)
 # Installation
     npm install --save global-dni
 # Api

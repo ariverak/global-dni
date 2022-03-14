@@ -7,3 +7,4 @@ interface DniOptions {
 export const CL: DniOptions
 export const PE: DniOptions;
 export const ES: DniOptions;
+export const PY: DniOptions;
